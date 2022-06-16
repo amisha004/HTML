@@ -8,4 +8,4 @@
 
 
 Note: 
-Image Folder contains the images used in the HTML form.
+Images Folder contains the images used in the HTML form.
